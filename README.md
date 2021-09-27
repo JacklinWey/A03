@@ -1,17 +1,29 @@
 # A03
 
 Branch - A branch is a version of your repository, or an independent line of development.
+
 Clone -  Used to point to an existing repo and make a clone or copy of that repo at in a new directory, at another location.
+
 Commit - Snapshots or milestones along the timeline of a Git project.
+
 Fetch - The git fetch command downloads commits, files, and refs from a remote repository into your local repo.
+
 GIT - Git is software for tracking changes in any set of files, usually used for coordinating work among programmers collaboratively developing source code during software development.
+
 Github - GitHub, Inc. is a provider of Internet hosting for software development and version control using Git.
+
 Merge - Merging is Git's way of putting a forked history back together again. 
+
 Merge Conflict - A merge conflict is an event that occurs when Git is unable to automatically resolve differences in code between two commits
+
 Push - Pushing is how you transfer commits from your local repository to a remote repo
+
 Pull - The git pull command is used to fetch and download content from a remote repository and immediately update the local repository to match that content.
+
 Remote - A remote repository in Git, also called a remote, is a Git repository that's hosted on the Internet or another network.
+
 Repository - A repository is your whole project (directories and files) that you clone on your computer
+
 
 Works Cited
 https://stackoverflow.com/questions/41398489/what-is-the-difference-between-repository-and-branch-in-git
