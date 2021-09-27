@@ -1,7 +1,9 @@
 # A03
 GIT Walkthrough
-1. Make an account on GitHub and download GIT Bash
-2. 
+1. Make an account on GitHub
+2. Make a repository by going into 'Repository' tab and clicking the green button that says 'New'
+3. Insert changes by adding files and 'committing' changes by pressing the green botton at the end of the page.
+4. You can sync between your computer files on remote files by 'pushing and pulling' on Git.
 
 
 Branch - A branch is a version of your repository, or an independent line of development.
