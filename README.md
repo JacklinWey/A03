@@ -1,4 +1,8 @@
 # A03
+GIT Walkthrough
+1. Make an account on GitHub and download GIT Bash
+2. 
+
 
 Branch - A branch is a version of your repository, or an independent line of development.
 
